@@ -1,1 +1,1 @@
-# Mysquel
+# Mysquel in practice 
