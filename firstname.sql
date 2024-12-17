@@ -13,4 +13,4 @@ insert into EmpTable values (1,'Venkatesh','S',100000,'2015-08-28','BANKING'),
 (12,'Sivakumar','K',54789,'2016-03-02','SOFTWARE');
 
 --write the query
-select first_name from EmpTable;
+select first_name as "Employee Name" from EmpTable;
